@@ -40,10 +40,9 @@ footer {
     text-align: center;
 }
 #link {
-    background: black;
-    color: white;
+    color: aquamarine;
     display: inline-block;
-    padding: 10px;
+    padding: 16px;
 }
 
 #video, #camp, #phone {
